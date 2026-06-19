@@ -66,6 +66,8 @@ I am an **AI Software & Developer Tooling Engineer** specializing in integrating
 * **Smart Ecosystem Integration:** Inherits native VS Code theme tokens automatically for perfect Light/Dark mode transitions.
 * **Secure File Parsing:** Sandboxed client-side runtime arrays handling data strictly within local workspace memory limits.
 
+  👉 **[Download it live on the VS Code Marketplace](https://marketplace.visualstudio.com/)** *(Note: To protect proprietary operational logic, the core engineering repository for this extension is kept Private).*
+
 ---
 
 ## 📈 Current Focus Areas
