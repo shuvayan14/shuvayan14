@@ -57,6 +57,17 @@ I am an **AI Software & Developer Tooling Engineer** specializing in integrating
 
 ---
 
+## 📊 Data Visualizer Workspace
+
+> **Designed and engineered a production-ready VS Code extension that lets developers render raw CSV and JSON datasets into interactive, responsive graphical charts directly inside their workspace pipeline.**
+
+### 🌟 Project Highlights & Capabilities
+* **Interactive Rendering:** Embedded HTML5 Canvas layers driving dynamic Chart.js configurations.
+* **Smart Ecosystem Integration:** Inherits native VS Code theme tokens automatically for perfect Light/Dark mode transitions.
+* **Secure File Parsing:** Sandboxed client-side runtime arrays handling data strictly within local workspace memory limits.
+
+---
+
 ## 📈 Current Focus Areas
 * Deepening core competencies across data manipulation, pipeline engineering, and **Data Science Fundamentals**.
 * Exploring advanced prompt orchestration patterns and chaining techniques inside production AI applications.
