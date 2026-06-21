@@ -41,8 +41,6 @@ I am a **Computer Science & Engineering Student** at SMIT Sikkim and an **AI Sof
 
   👉 **[Download it live on the VS Code Marketplace](https://marketplace.visualstudio.com/)** *(Note: To protect proprietary operational logic, the core engineering repository for this extension is kept Private).*
 
-  👉 *Note: To maintain personal workspace operational logic, the repository and source files for this utility are maintained under a Private configuration.*
-
 ---
 
 ### 🧠 Synapse AI 
