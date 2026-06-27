@@ -21,7 +21,8 @@ I am a **Computer Science & Engineering Student** at SMIT Sikkim and an **AI Sof
 🚀 Featured Technical Projects
 
 📊 Codebase Complexity Tracker
-A multi-language static analysis dashboard engineered as a native VS Code extension to map, flag, and visualize structural risk hotspots directly within a developer's workspace.
+
+>A multi-language static analysis dashboard engineered as a native VS Code extension to map, flag, and visualize structural risk hotspots directly within a developer's workspace.
 - **Universal Multi-Language Engine:** Programmed a lightweight, dependency-free lexical parsing framework using native regex pattern matching to process syntax structures simultaneously across 11 distinct languages (including JS, TS, Python, Java, C++, Go, and Ruby).
 - **Static Analysis Dashboard:** Designed an interactive, high-performance Webview dashboard interface displaying workspace-wide density metrics (Total Files, Lines of Code (LOC), and blank padding space).
 - **Structural Risk Sorting:** Implemented a lightweight branching assessment algorithm modeled after Cyclomatic Complexity criteria to calculate specific file scores and dynamically bubbles high-risk conditional bottlenecks to the top of the UI.
@@ -31,7 +32,8 @@ A multi-language static analysis dashboard engineered as a native VS Code extens
 ---
 
 📊 Data Visualizer Workspace
-Designed and engineered a production-ready VS Code extension that lets developers render raw CSV and JSON datasets into interactive, responsive graphical charts directly inside their workspace pipeline.
+
+>Designed and engineered a production-ready VS Code extension that lets developers render raw CSV and JSON datasets into interactive, responsive graphical charts directly inside their workspace pipeline.
 - **Interactive Rendering:** Embedded HTML5 Canvas layers driving dynamic Chart.js configurations directly within the editor environment.
 - **Smart Ecosystem Integration:** Inherits native VS Code theme tokens automatically for perfect Light/Dark mode visual transitions.
 - **Secure File Parsing:** Sandboxed client-side runtime arrays handling data strictly within local workspace memory limits.
@@ -40,7 +42,8 @@ Designed and engineered a production-ready VS Code extension that lets developer
 ---
 
 🧠 Synapse AI
-An intelligent developer companion built as a native VS Code extension to make complex code comprehension completely effortless.
+
+>An intelligent developer companion built as a native VS Code extension to make complex code comprehension completely effortless.
 - **AI System Orchestration:** Integrated the Gemini 2.5 Flash engine via the official Google GenAI SDK to handle contextual code analysis with optimized, zero-latency execution.
 - **Lightweight Custom Compiler:** Programmed a stateful line-by-line regex string compilation engine that maps raw Markdown data directly into sleek, semantic HTML arrays—bypassing heavy external parsing packages.
 - **Secure Cache Management:** Designed a runtime credential pipeline that queries encrypted OS-level SecretStorage caches, featuring a secondary fallback resolution to workspace-level .env environments.
@@ -50,7 +53,8 @@ An intelligent developer companion built as a native VS Code extension to make c
 ---
 
 ⏱️ Dev Timer
-A minimalist, high-contrast productivity and Pomodoro timer extension engineered natively for VS Code to seamlessly manage deep work blocks and stretch intervals directly inside a developer's workflow.
+
+>A minimalist, high-contrast productivity and Pomodoro timer extension engineered natively for VS Code to seamlessly manage deep work blocks and stretch intervals directly inside a developer's workflow.
 - **Dev-Centric Visual Design:** Authored a clean, high-contrast UI tailored specifically for modern dark-themed IDE environments, integrating custom metallic silver visual branding assets.
 - **Status Bar Orchestration:** Implemented a lightweight, background-threaded countdown engine that binds remaining focus block metrics directly to the native VS Code status bar for glanceable, distraction-free monitoring.
 - **Active Notification Pipeline:** Integrated reactive workspace popup hooks to alert users with native system messages the exact moment a 25-minute Pomodoro focus interval concludes.
@@ -60,7 +64,8 @@ A minimalist, high-contrast productivity and Pomodoro timer extension engineered
 ---
 
 ✍️ English Placeholder Generator
-A custom text expansion utility fully published to the official Microsoft VS Code Marketplace, swapping outdated Latin dummy text for structured English prose.
+
+>A custom text expansion utility fully published to the official Microsoft VS Code Marketplace, swapping outdated Latin dummy text for structured English prose.
 - **Instant Text Expansion:** Engineered a context-aware execution framework using reactive keyboard macro triggers to transform short shorthand codes into paragraphs of readable English prose instantly.
 - **Optimized Marketplace Packaging:** Handled the entire deployment workflow, organizing complex runtime manifests, cleaning file dependencies, and bypassing Windows system casing conflicts via absolute mapping overrides.
 - **Production Deployment:** Managed the full release workflow on the Visual Studio Marketplace with optimized activation event parameters to maintain a near-zero background footprint on the host editor.
@@ -69,7 +74,8 @@ A custom text expansion utility fully published to the official Microsoft VS Cod
 ---
 
 🚗 Auto AI
-A full-stack automotive intelligence application delivering data-driven technical breakdowns, price estimations, and side-by-side vehicle comparison matrices.
+
+>A full-stack automotive intelligence application delivering data-driven technical breakdowns, price estimations, and side-by-side vehicle comparison matrices.
 - **Cost-Optimized Hybrid Architecture:** Constructed a smart caching pipeline utilizing memory-efficient local arrays to serve vehicle profiles instantly before ever routing high-complexity requests out to remote AI endpoints.
 - **Full-Stack Execution:** Built a modular backend infrastructure utilizing Node.js and Express to orchestrate API data streams, paired with vanilla JavaScript DOM manipulators for high-speed layout rendering.
 - **Structural Safety Constraints:** Crafted highly precise systemic prompt parameters ensuring the LLM response object consistently formats to rigorous JSON schemes to completely eliminate client-side parsing failures.
@@ -78,7 +84,8 @@ A full-stack automotive intelligence application delivering data-driven technica
 ---
 
 🛒 Apex Ecommerce Website
-A sophisticated, high-performance digital marketplace built to handle heavy user concurrency and high-velocity storefront transactions.
+
+>A sophisticated, high-performance digital marketplace built to handle heavy user concurrency and high-velocity storefront transactions.
 - **Immersive Visual Design:** Developed an original, fluid layout structured entirely around a modern "Dark Aqua" visual design grid for an elegant, high-contrast aesthetics pattern.
 - **Scalable Infrastructure:** Architected a robust backend dataset framework engineered to smoothly coordinate product availability tracking, transactional queries, and high-velocity customer pipelines.
 - **Viewport Optimization:** Integrated advanced layout optimization parameters ensuring immediate initial render times and high-framerate animation behaviors across all desktop and mobile viewports.
